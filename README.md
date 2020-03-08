@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/build-passing-green)
 ![](https://img.shields.io/badge/Language-C-yellow)
-
+![](https://img.shields.io/badge/type-course-yellow)</br>
 KeyWords：**STM32**、**OV7725**、**嵌入式**</br>
 Partner:[王小石](https://github.com/w1246410140)</br>
 # 📒目的与意义</br>
