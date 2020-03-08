@@ -1,7 +1,8 @@
 
 <h1 align="center">基于图像检测的自动报警系统</h1>
 
-[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![](https://img.shields.io/badge/build-passing-green)
+![](https://img.shields.io/badge/Language-C-yellow)
 
 KeyWords：**STM32**、**OV7725**、**嵌入式**</br>
 Partner:[王小石](https://github.com/w1246410140)</br>
